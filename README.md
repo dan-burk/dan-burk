@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Daniel! I'm a runner, data scientist, self taught full-stack (maybe more like a garbage-stack) developer. Feel free to poke around or reach out via email or LinkedIn!
 
 <!--
 **dan-burk/dan-burk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
